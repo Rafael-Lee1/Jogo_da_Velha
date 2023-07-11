@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://github.com/Rafael-Lee1/Icons/blob/2bc7b695db731c89725c35972a476ea246ad21aa/Screenshot_jogo_da_velha.png">
 </p>
 
-<h1 align="center"> App Orçamento Pessoal </h1>
+<h1 align="center"> App Jogo da Velha </h1>
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
